@@ -19,10 +19,6 @@ env/
 *.db
 *.sqlite3
 
-# Data Files
-data/raw/
-data/cleaned/
-
 # Power BI Temporary Files
 *.pbix.autosave
 
